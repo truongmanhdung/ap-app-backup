@@ -1,0 +1,23 @@
+{
+  "installed": {
+    "client_id": "843106096419-svnsblmbmv4p7tmicrmq4b31mjsiasuc.apps.googleusercontent.com",
+    "project_id": "ap-app-mobile-344307",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "redirect_uris": ["urn:ietf:wg:oauth:2.0:oob", "http://localhost"]
+  },
+  "project_info": {
+    "project_number": "509124465129",
+    "project_id": "ap-app-mobile-344307"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.appapmobile"
+        }
+      }
+    }
+  ]
+}
